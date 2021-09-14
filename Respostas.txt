@@ -1,0 +1,12 @@
+Situação 1
+1. Sim, apeça foi cadastrada.
+2. O nome da peça: "Peça Teste".
+Situação 2
+1. Não, apeça não foi cadastrada.
+2. Não foi mostrado nenhum valor depois de "Listando as peças cadastradas".
+Situação 3
+1. Sim as peças foram cadastradas, no entanto foi emitido um alerta dizendo "Limite de peças atingido".
+2. Foram mostradas as 11 peças.
+Situação 4
+1. Não, apeça não foi cadstrada.
+2. Foi informado que a peça não possui o minimo de letras para ser cadastrada.

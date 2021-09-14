@@ -1,4 +1,5 @@
-let listaPecas = []
+let listaPecas = ['peça 1', 'peça 2', 'peça 3', 'peça 4', 'peça 5', 'peça 6',
+'peça 7', 'peça 8', 'peça 9', 'peça 10', 'peça 11']
 let nomePeca = 'Peça Teste'
 let pesoPeca = 300
 let podeCadastrar = true
@@ -26,6 +27,6 @@ if (podeCadastrar){
 }
 
 console.log('Listando as peças cadastradas.')
-for (let i=0; i < listaPecas.length; i++){
+for (let i = 0; i < listaPecas.length; i++){
     console.log(listaPecas[i])
 }
